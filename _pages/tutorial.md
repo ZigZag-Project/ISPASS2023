@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/leuven3.jpg
   actions:
-    - label: "Download"
+    - label: "GitHub"
       url: "#test-link"
 excerpt: "ISPASS 2023 Tutorial"
 ---
