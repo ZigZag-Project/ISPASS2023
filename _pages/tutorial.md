@@ -5,7 +5,7 @@ permalink: /tutorial/
 header:
   overlay_color: "#FFF"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/leuven3.jpg
+  overlay_image: /assets/images/MICAS.jpg
   actions:
     - label: "Download"
       url: "#test-link"
