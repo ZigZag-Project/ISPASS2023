@@ -1,4 +1,5 @@
 ---
+title:ZigZag Project
 layout: splash
 permalink: /about/
 header:
