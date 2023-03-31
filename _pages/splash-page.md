@@ -1,10 +1,10 @@
 ---
-title: "Splash Page"
+title: "ZigZag Project"
 layout: splash
 permalink: /splash-page/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
+  overlay_color: "#FFF"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/leuven3.jpg
   actions:
     - label: "Download"
