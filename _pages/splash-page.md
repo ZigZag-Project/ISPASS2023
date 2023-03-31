@@ -5,7 +5,7 @@ permalink: /splash-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/leuven2.png
+  overlay_image: /assets/images/leuven3.png
   actions:
     - label: "Download"
       url: "#test-link"
