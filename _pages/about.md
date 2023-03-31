@@ -3,7 +3,7 @@ layout: splash
 permalink: /about/
 header:
   overlay_color: "#FFF"
-  overlay_filter: "0.5"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/leuven3.jpg
   actions:
     - label: "Download"
