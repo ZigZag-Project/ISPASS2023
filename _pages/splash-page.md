@@ -34,8 +34,9 @@ This tutorial ...
 | Prof. Marian Verhelst                                                        |
 | Arne Symons                                                                  |
 | Linyan Mei                                                                   |
+| Guilherme Paim                                                               |
 
-## Program Committee
+## ZigZag Developers
 
 | PC Member                       | Affiliation                                             |
 | ----                            | ----                                                    |
