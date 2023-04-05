@@ -31,10 +31,10 @@ This tutorial ...
 
 | People                                                                       |
 | ----                                                                         |
-| Prof. Marian Verhelst                                                        |
 | Arne Symons                                                                  |
 | Linyan Mei                                                                   |
 | Guilherme Paim                                                               |
+| Prof. Marian Verhelst                                                        |
 
 ## ZigZag Developers
 
