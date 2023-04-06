@@ -100,7 +100,7 @@ defaults:
   #    related: true
   # _pages
   - scope:
-      path: "_pages/tutorial.md"
+      path: "_pages"
       type: pages
     values:
       layout: splash
