@@ -1,27 +1,39 @@
-# Minimal Mistakes remote theme starter
-
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
+---
+title: "ZigZag Project"
+layout: splash
+#permalink: //
+header:
+  overlay_color: "#FFF"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/leuven3.jpg
+  actions:
+    - label: "Download"
+      url: "https://github.com/ZigZag-Project/zigzag-demo"
+excerpt: "ISPASS 2023 Tutorial"
 ---
 
-## Troubleshooting
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+## ZigZag Project Tutorial
+April 23, 2023 -- Raleigh, NC
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Tutorial Description
+ZigZag Project ...
+
+## Tutorial Contents
+This tutorial ...
+
+- ...
+- ...
+- ...
+- ...
+
+## Tutorial Organizers
+
+| People                                                                       |
+| ----                                                                         |
+| Arne Symons                                                                  |
+| Linyan Mei                                                                   |
+| Guilherme Paim                                                               |
+| Prof. Marian Verhelst                                                        |
+
+
