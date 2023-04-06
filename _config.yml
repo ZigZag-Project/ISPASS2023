@@ -1,10 +1,8 @@
 
 title: ISPASS2023
-email: gppaim@ieee.org
+email: arne.symons@kuleuven.be
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Tutorial on HW Architecture-Mapping Design Space Exploration Framework for Deep Learning Accelerators.
 #twitter_username: username
 github_username: ZigZag-Project
 minimal_mistakes_skin: default
@@ -46,9 +44,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Arne Symons"
+  avatar : "/assets/images/arne.jpg"
+  bio    : "Arne Symons is a 3rd year Ph.D. researcher at MICAS - KU Leuven, Belgium. His research focuses on mapping optimisation of deep learning workloads onto specialized multi-core hardware accelerators employing layer-fused processing."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-microchip"
@@ -62,15 +60,15 @@ header:
   
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/ZigZag-Project/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   - scope:
