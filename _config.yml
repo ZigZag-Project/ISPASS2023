@@ -36,7 +36,7 @@ paginate_path: /tutorial/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
-  - _pages/tutorial.md
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -89,7 +89,7 @@ footer:
 defaults:
   # _posts
   #- scope:
-  #    path: "_pages/tutorial.md"
+  #    path: "_pages"
   #    type: posts
   #  values:
   #    layout: splash
