@@ -88,19 +88,19 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: "_pages/tutorial.md"
-      #type: posts
-    values:
-      layout: splash
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: "_pages/tutorial.md"
+  #    type: posts
+  #  values:
+  #    layout: splash
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: "_pages/tutorial.md"
       type: pages
     values:
       layout: splash
