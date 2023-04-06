@@ -7,8 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/leuven3.jpg
   actions:
-    - label: "GitHub"
-      url: "https://github.com/ZigZag-Project"
+    - label: "Download"
+      url: "https://github.com/ZigZag-Project/zigzag-demo"
 excerpt: "ISPASS 2023 Tutorial"
 ---
 
@@ -36,27 +36,4 @@ This tutorial ...
 | Guilherme Paim                                                               |
 | Prof. Marian Verhelst                                                        |
 
-## ZigZag Developers
-
-| PC Member                       | Affiliation                                             |
-| ----                            | ----                                                    |
-| Ulrich Finkler                  |       IBM                                               |
-| Jose Cano Reyes                 |       University of Glasgow                             |
-| Ananda Samajdar                 |       IBM                                               |
-| Zehra Sura                      |       Bloomberg                                         |
-| Mohamed Zahran                  |       New York University                               |
-
-
-
-## Invited Speakers
-
-| Speaker                                                                                          | Affiliation                                   |
-| ----                                                                                             | ----                                          |
-|TBD                                                                                               |        TBD                                       |                                          
-     
-## Links
-
-**[ZigZag Project](https://github.com/ZigZag-Project)** ZigZag Project GitHub
-**[ZigZag Framework](https://github.com/ZigZag-Project/ZigZag)** ZigZag Framework
-**[Stream Framework](https://github.com/ZigZag-Project/Stream)** ZigZag extension for multi-core architectures
 
