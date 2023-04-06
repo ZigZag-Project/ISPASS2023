@@ -1,7 +1,7 @@
 ---
 title: "ZigZag Project"
 layout: splash
-permalink: /splash-page/
+permalink: /tutorial/
 header:
   overlay_color: "#FFF"
   overlay_filter: "0.5"
