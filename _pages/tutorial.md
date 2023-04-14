@@ -48,4 +48,5 @@ This tutorial will introduce the unified DSE framework infrastructure and demons
 | [Dr. Guilherme Paim](https://gppaim.wordpress.com/){:target="_blank"} |
 | [Prof. Marian Verhelst](https://micas.esat.kuleuven.be/team/00043529){:target="_blank"}        |
 
+![alt text](assets/MICAS.jpg)
 
