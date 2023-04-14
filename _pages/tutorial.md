@@ -41,8 +41,8 @@ This tutorial will introduce the unified DSE framework infrastructure and demons
 
 ## Tutorial Organizers
 
-|     People      |
-|  ----------------         |
+| People      |
+| ----------------         |
 | [Arne Symons](https://micas.esat.kuleuven.be/team/00123840){:target="_blank"} |
 | [Linyan Mei](https://micas.esat.kuleuven.be/team/00110246){:target="_blank"} |
 | [Dr. Guilherme Paim](https://gppaim.wordpress.com/){:target="_blank"} |
