@@ -45,7 +45,7 @@ This tutorial will introduce the unified DSE framework infrastructure and demons
 | | ---------------------------------------------------------------------------------------------- |
 |![](https://user-images.githubusercontent.com/84473288/232055335-5aeef15d-1761-435b-8d43-a4b5048a3a19.jpg)  | [Arne Symons](https://micas.esat.kuleuven.be/team/00123840){:target="_blank"} |
 |![](https://user-images.githubusercontent.com/84473288/232055365-7aa965a8-8328-4e97-b8ef-27627eb8d440.jpg) | [Linyan Mei](https://micas.esat.kuleuven.be/team/00110246){:target="_blank"} |
-|![ Paim](https://user-images.githubusercontent.com/84473288/232055451-8e132acc-bcdd-48a3-a065-989afdc1c066.jpg | [Dr. Guilherme Paim](https://gppaim.wordpress.com/){:target="_blank"} |
+|![](https://user-images.githubusercontent.com/84473288/232055451-8e132acc-bcdd-48a3-a065-989afdc1c066.jpg | [Dr. Guilherme Paim](https://gppaim.wordpress.com/){:target="_blank"} |
 |![](https://user-images.githubusercontent.com/84473288/232055499-57ace6b4-2942-4e45-a950-1b31c822e70a.jpg) | [Prof. Marian Verhelst](https://micas.esat.kuleuven.be/team/00043529){:target="_blank"}|
 
 ![](https://user-images.githubusercontent.com/84473288/232055045-33fe65f3-ba45-450c-ae32-72bc383af6d6.svg)
