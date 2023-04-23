@@ -27,19 +27,23 @@ Building efficient embedded deep learning (DL) systems requires a tight co-desig
 
 This tutorial will introduce the unified DSE framework infrastructure and demonstrate the capabilities of ZigZag and Stream by guiding participants through several DSE experiments step-by-step. By the end of the tutorial, participants will have a complete view of the DL accelerator and scheduling design space and will have gained enough knowledge to deploy the open-source frameworks as their own personal customized DSE tool.
 
-## Tutorial Contents
+## Contents
 
-| Time                | Content                                                                                                 |
-| ------------------- | ------------------------------------------------------------------------------------------------------- |
-| 8.30 AM - 8.50 AM   | Introduction of the ZigZag project                                                                      |
-| 8.50 AM - 9.30 AM   | Assessing the hardware performance of running a DNN on a single-core accelerator with fixed mappings    |
-| 9.30 AM - 10.00 AM  | Optimizing mapping performance of a single-core accelerator with built-in automatic mapping exploration |
-| 10.00 AM - 10.20 AM | Break                                                                                                   |
-| 10.30 AM - 11.00 AM | Understanding & customizing the hardware architecture definition for other dataflows                    |
-| 11.00 AM - 11.45 AM | Expanding the hardware to multi-core architectures with layer-fused processing using Stream             |
-| 11.45 AM - 12.00 PM | Concluding remarks                                                                                      |
+| Time                | Content                                                                                                            |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 8.30 AM - 8.50 AM   | Introduction of the ZigZag project                                                                                 |
+| 8.50 AM - 9.30 AM   | **Lab 1:** Assessing the hardware performance of running a DNN on a single-core accelerator with fixed mappings    |
+| 9.30 AM - 10.00 AM  | **Lab 2:** Optimizing mapping performance of a single-core accelerator with built-in automatic mapping exploration |
+| 10.00 AM - 10.30 AM | Break                                                                                                              |
+| 10.30 AM - 11.00 AM | **Lab 3:** Understanding & customizing the hardware architecture definition for other dataflows                    |
+| 11.00 AM - 11.45 AM | **Lab 4:** Expanding the hardware to multi-core architectures with layer-fused processing using Stream             |
+| 11.45 AM - 12.00 PM | Concluding remarks                                                                                                 |
 
-## Tutorial Organizers
+## Slides
+
+[Pdf](../assets/slides/tutorial.pdf){:target="_blank"}, [Powerpoint](../assets/slides/tutorial.pptx){:target="_blank"}
+
+## Organizers
 
 | People                                                                                  |
 | --------------------------------------------------------------------------------------- |
